@@ -4,13 +4,11 @@
 >  And most important to practice my non-existing skills in frontend.
 >  Hover over apartments and unveil your favorite characters' iconic catchphrases!
 
-## Demo
+## 🔥 Live Demo
 
-➡️ [Click Here to Visit the Live Demo]([https://your-live-link.com](https://shivanshh-oo.github.io/TMKOC_Visualizer/))
+➡️ [Click Here to Visit the Live Demo](https://shivanshh-oo.github.io/TMKOC_Visualizer/)
 
 ---
-
-
 
 ## 🧠 Project Overview
 
